@@ -33,7 +33,7 @@ publishing {
         mavenJava(MavenPublication) {
             groupId = 'com.casper.sdk.kotlin'
             artifactId = 'CasperSDKKotlin'
-            version = '0.1'
+            version = '0.3'
             from components.java
         }
     }
